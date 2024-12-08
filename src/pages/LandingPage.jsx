@@ -6,7 +6,7 @@ const LandingPage = () => {
 
   const isLoggedIn = localStorage.getItem("loggedIn");
   return (
-    <div className="bg-gray-50 min-h-screen flex flex-col justify-between">
+    <div className="bg-gray-50 min-h-screen flex flex-col justify-between pt-16">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-purple-600 to-indigo-500 text-white py-20 sm:py-24 lg:py-32">
         <div className="container mx-auto text-center">
