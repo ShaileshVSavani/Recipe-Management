@@ -1,0 +1,237 @@
+{
+  "users": [],
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Dhokla",
+      "ingredients": "Rice, Chickpea flour, Yogurt, Mustard seeds, Turmeric, Green chilies, Curry leaves",
+      "instructions": "Prepare a batter with rice, chickpea flour, and yogurt. Steam the batter, then temper with mustard seeds, turmeric, and curry leaves.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Gujarati"
+    },
+    {
+      "id": "2",
+      "title": "Thepla",
+      "ingredients": "Wheat flour, Fenugreek leaves, Cumin, Turmeric, Ginger, Green chilies, Salt",
+      "instructions": "Knead wheat flour with fenugreek leaves, cumin, and spices. Roll into flatbreads and cook on a griddle.",
+      "cookingTime": "15 minutes",
+      "cuisine": "Gujarati"
+    },
+    {
+      "id": "3",
+      "title": "Undhiyu",
+      "ingredients": "Mixed vegetables, Surti papdi, Sweet potatoes, Methi muthiya, Garlic, Green chilies, Tamarind",
+      "instructions": "Cook mixed vegetables with spices, adding muthiya (fried dough) and tamarind for tanginess.",
+      "cookingTime": "1 hour",
+      "cuisine": "Gujarati"
+    },
+    {
+      "id": "4",
+      "title": "Aloo Paratha",
+      "ingredients": "Whole wheat flour, Potatoes, Green chilies, Ginger, Cumin, Coriander, Garam masala",
+      "instructions": "Stuff dough with spiced mashed potatoes, roll out and cook on a griddle.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Punjabi"
+    },
+    {
+      "id": "5",
+      "title": "Chole Bhature",
+      "ingredients": "Chickpeas, Onion, Tomato, Ginger, Garlic, Cumin, Coriander, Flour, Yogurt",
+      "instructions": "Cook chickpeas with onion, tomato, and spices. Serve with fried bhature (puffy bread).",
+      "cookingTime": "45 minutes",
+      "cuisine": "Punjabi"
+    },
+    {
+      "id": "6",
+      "title": "Makki Di Roti & Sarson Da Saag",
+      "ingredients": "Maize flour, Mustard greens, Spinach, Ginger, Garlic, Ghee",
+      "instructions": "Make roti with maize flour and serve with a mustard greens and spinach curry.",
+      "cookingTime": "1 hour",
+      "cuisine": "Punjabi"
+    },
+    {
+      "id": "7",
+      "title": "Kathiyawadi Bhakri",
+      "ingredients": "Wheat flour, Bajra flour, Cumin, Sesame seeds, Ghee",
+      "instructions": "Knead a dough with wheat, bajra flour, cumin, and sesame seeds. Roll into thick flatbreads and cook on a griddle.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Kathiyawadi"
+    },
+    {
+      "id": "8",
+      "title": "Kathiyawadi Sev Tameta",
+      "ingredients": "Sev, Tomatoes, Ginger, Garlic, Green chilies, Mustard seeds, Turmeric",
+      "instructions": "Cook sev with tomatoes and spices to make a tangy, spicy dish.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Kathiyawadi"
+    },
+    {
+      "id": "9",
+      "title": "Sukhadi",
+      "ingredients": "Wheat flour, Ghee, Jaggery, Cardamom",
+      "instructions": "Roast wheat flour in ghee, add jaggery and cardamom, and shape into squares.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Kathiyawadi"
+    },
+    {
+      "id": "10",
+      "title": "Chow Mein",
+      "ingredients": "Egg noodles, Soy sauce, Vegetables (carrot, bell pepper, cabbage), Garlic, Ginger",
+      "instructions": "Stir fry vegetables with garlic, ginger, and soy sauce, then add boiled noodles.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "11",
+      "title": "Sweet and Sour Tofu",
+      "ingredients": "Tofu, Pineapple, Bell peppers, Soy sauce, Vinegar, Sugar, Ginger, Garlic",
+      "instructions": "Fry tofu, then cook with sweet and sour sauce made from pineapple, soy sauce, vinegar, and sugar.",
+      "cookingTime": "25 minutes",
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "12",
+      "title": "Manchurian",
+      "ingredients": "Cauliflower, Ginger, Garlic, Soy sauce, Green chilies, Corn flour",
+      "instructions": "Deep fry cauliflower, then toss in a sauce made from soy sauce, garlic, and chili.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "13",
+      "title": "Hot and Sour Soup",
+      "ingredients": "Mushrooms, Tofu, Vinegar, Soy sauce, Green chilies, Black pepper",
+      "instructions": "Boil mushrooms and tofu in broth, then add soy sauce, vinegar, and spices.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "14",
+      "title": "Chicken Tikka Masala",
+      "ingredients": "Chicken, Yogurt, Tomato, Onion, Spices",
+      "instructions": "Marinate chicken, cook with sauce, add spices.",
+      "cookingTime": "45 minutes",
+      "cuisine": "Indian"
+    },
+    {
+      "id": "15",
+      "title": "Spaghetti Bolognese",
+      "ingredients": "Ground beef, Tomatoes, Garlic, Onion, Spaghetti",
+      "instructions": "Cook ground beef, add tomatoes, garlic, and onions, serve over spaghetti.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Italian"
+    },
+    {
+      "id": "16",
+      "title": "Sushi Rolls",
+      "ingredients": "Sushi rice, Seaweed, Fish (Salmon/Tuna), Cucumber, Soy sauce",
+      "instructions": "Prepare sushi rice, roll with fish and cucumber in seaweed.",
+      "cookingTime": "25 minutes",
+      "cuisine": "Japanese"
+    },
+    {
+      "id": "19",
+      "title": "Caesar Salad",
+      "ingredients": "Lettuce, Caesar dressing, Croutons, Parmesan cheese",
+      "instructions": "Toss lettuce with dressing, add croutons and cheese.",
+      "cookingTime": "10 minutes",
+      "cuisine": "American"
+    },
+    {
+      "id": "20",
+      "title": "Pad Thai",
+      "ingredients": "Rice noodles, Shrimp, Tofu, Eggs, Peanuts, Tamarind paste, Lime",
+      "instructions": "Stir fry shrimp, tofu, and noodles with tamarind paste, garnish with peanuts and lime.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Thai"
+    },
+    {
+      "id": "21",
+      "title": "Pizza Margherita",
+      "ingredients": "Pizza dough, Tomato sauce, Mozzarella cheese, Basil",
+      "instructions": "Top dough with sauce, cheese, and basil, bake.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Italian"
+    },
+    {
+      "id": "22",
+      "title": "Chickpea Curry",
+      "ingredients": "Chickpeas, Coconut milk, Tomatoes, Onion, Spices",
+      "instructions": "Cook chickpeas with tomatoes, onion, and spices, add coconut milk.",
+      "cookingTime": "40 minutes",
+      "cuisine": "Indian"
+    },
+    {
+      "id": "23",
+      "title": "Grilled Salmon",
+      "ingredients": "Salmon fillets, Lemon, Garlic, Olive oil, Herbs",
+      "instructions": "Marinate salmon with garlic and herbs, grill and serve with lemon.",
+      "cookingTime": "20 minutes",
+      "cuisine": "Mediterranean"
+    },
+    {
+      "id": "24",
+      "title": "Shakshuka",
+      "ingredients": "Eggs, Tomatoes, Bell pepper, Onion, Spices",
+      "instructions": "Cook vegetables in a pan, crack eggs on top, cook until eggs set.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "25",
+      "title": "Vegetable Paella",
+      "ingredients": "Rice, Bell peppers, Tomatoes, Peas, Saffron, Olive oil",
+      "instructions": "Cook rice with saffron and vegetables, serve hot.",
+      "cookingTime": "45 minutes",
+      "cuisine": "Spanish"
+    },
+    {
+      "id": "26",
+      "title": "Chicken Alfredo",
+      "ingredients": "Chicken, Fettuccine, Cream, Parmesan, Garlic",
+      "instructions": "Cook chicken and pasta, toss with cream and cheese.",
+      "cookingTime": "30 minutes",
+      "cuisine": "Italian"
+    },
+    {
+      "id": "27",
+      "title": "Beef Wellington",
+      "ingredients": "Beef tenderloin, Mushrooms, Puff pastry, Egg, Mustard",
+      "instructions": "Sear beef, wrap in mushrooms and pastry, bake.",
+      "cookingTime": "1 hour 30 minutes",
+      "cuisine": "British"
+    },
+    {
+      "id": "28",
+      "title": "Falafel",
+      "ingredients": "Chickpeas, Onion, Garlic, Parsley, Spices, Flour",
+      "instructions": "Blend ingredients, shape into balls, fry until crispy.",
+      "cookingTime": "40 minutes",
+      "cuisine": "Middle Eastern"
+    },
+    {
+      "id": "29",
+      "title": "Mushroom Risotto",
+      "ingredients": "Arborio rice, Mushrooms, Onion, Parmesan, White wine",
+      "instructions": "Cook rice with mushrooms, stir in cheese and wine.",
+      "cookingTime": "40 minutes",
+      "cuisine": "Italian"
+    },
+    {
+      "id": "17",
+      "title": "Szechuan Shrimp",
+      "ingredients": "Shrimp, Szechuan sauce, Bell peppers, Garlic, Ginger",
+      "instructions": "Stir fry shrimp and peppers with Szechuan sauce.",
+      "cookingTime": "25 minutes",
+      "cuisine": "Chinese"
+    },
+    {
+      "id": "18",
+      "title": "Lamb Curry",
+      "ingredients": "Lamb, Tomatoes, Onion, Garlic, Spices",
+      "instructions": "Cook lamb with tomatoes and spices, serve with rice.",
+      "cookingTime": "1 hour",
+      "cuisine": "Indian"
+    }
+  ]
+}
