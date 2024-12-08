@@ -36,7 +36,7 @@ const RecipeList = () => {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen py-8 px-4 sm:px-6 lg:px-8 pt-20">
+    <div className="bg-gray-100 min-h-screen py-8 px-4 sm:px-6 lg:px-8">
       <h1 className="text-4xl font-bold text-center text-gray-800 mb-8">Recipe List</h1>
 
       {/* Search Bar */}

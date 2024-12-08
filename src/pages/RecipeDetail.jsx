@@ -24,7 +24,7 @@ const RecipeDetail = () => {
     deleteRecipe(recipe.id)
       .then(() => {
         console.log('Recipe Deleted');
-        navigate('/'); // Navigate to home or another page after deleting
+        navigate('/recipe'); // Navigate to home or another page after deleting
       })
       .catch((error) => {
         console.error('Error deleting recipe:', error);
@@ -32,7 +32,7 @@ const RecipeDetail = () => {
   };
 
   return recipe ? (
-    <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8 mt-32">
+    <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-8 mt-16">
       <h3 className="text-3xl font-bold text-gray-800 mb-4">{recipe.title}</h3>
       <p className="text-lg text-gray-600 mb-2"><strong>Cuisine:</strong> {recipe.cuisine}</p>
       <p className="text-lg text-gray-600 mb-2"><strong>Cooking Time:</strong> {recipe.cookingTime}</p>

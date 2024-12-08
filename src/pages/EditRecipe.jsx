@@ -118,7 +118,7 @@ const EditRecipe = () => {
     </div>
   ) : (
     <div className="text-center py-12">
-      <p className="text-xl text-gray-500">Loading...</p>
+      <p className="text-xl text-gray-500" >Loading...</p>
     </div>
   );
 };
