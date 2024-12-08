@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/recipes';
+// const API_URL = 'http://localhost:5000/recipes';
+const API_URL = 'https://recipe-management-json-server.onrender.com/recipes';
 
 const axiosInstance = axios.create({
   baseURL: API_URL,
