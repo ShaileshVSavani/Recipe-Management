@@ -38,7 +38,7 @@ const EditRecipe = () => {
   };
 
   return recipe ? (
-    <div className="max-w-3xl mx-auto bg-white rounded-lg shadow-lg p-8 mt-8">
+    <div className="max-w-3xl mx-auto bg-white rounded-lg shadow-lg p-8 mt-24">
       <h2 className="text-3xl font-bold text-gray-800 mb-4">Edit Recipe</h2>
       <form onSubmit={handleSubmit} className="space-y-6">
         <div>
